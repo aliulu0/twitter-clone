@@ -25,7 +25,7 @@ npm run dev or yarn dev
 - react-icons
 - react-router-dom
 - react-toastify
-- reatc-flip-move
+- react-flip-move
 - react-moment
 - emoji-mart
 
