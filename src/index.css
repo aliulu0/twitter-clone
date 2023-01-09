@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+}
+
+@layer components{
+  .hover-effect{
+    @apply bg-twitter-background-color rounded-full cursor-pointer transition duration-300
+  }
+  .hover-effect-twitter{
+    @apply bg-twitter-hover-background rounded-full cursor-pointer transition duration-300
+  }
+}
