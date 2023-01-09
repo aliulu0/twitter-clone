@@ -29,3 +29,6 @@ npm run dev or yarn dev
 - react-moment
 - emoji-mart
 
+## Image
+
+<img src="https://user-images.githubusercontent.com/67802869/211375573-74349f25-411b-488d-9490-ed563a475e7e.jpg" width=961px height=468px />
