@@ -34,9 +34,9 @@ function Feed() {
     [db]
   )
   return (
-    <div className="sm:ml-[134px] xl:ml-[340px] w-[600px] min-h-screen border-r border-twitter-background-color py-2">
+    <div className="feed sm:ml-[134px] xl:ml-[340px] w-[600px] min-h-screen border-r border-twitter-background-color overflow-scroll scroll-smooth scroll">
       {/* Header */}
-      <div className="sticky top-0 flex justify-between font-medium text-[20px] px-4 py-2">
+      <div className="sticky top-0 flex justify-between font-medium text-[20px] px-5 py-4 bg-white z-10" >
         <h2>Home</h2>
         <HiOutlineSparkles />
       </div>

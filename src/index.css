@@ -7,6 +7,13 @@
   padding: 0;
   overflow: hidden;
 }
+.feed::-webkit-scrollbar{
+  display: none;
+}
+.feed{
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
 
 @layer components{
   .hover-effect{
