@@ -17,7 +17,7 @@ npm install or yarn install and cd client and npm install or yarn install
 ```
 npm run dev or yarn dev
 ```
-## Technologies and Libraries
+## Used Technologies and Libraries
 
 - React
 - firebase
